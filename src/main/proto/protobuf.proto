@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option java_multiple_files = true;
+option java_multiple_files = true; //concentrar em uma classe ou distribuir
 option java_package = "br.com.zup.edu";
 option java_outer_classname = "Protobuf";
 option objc_class_prefix = "HLW";
